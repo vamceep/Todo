@@ -8,7 +8,7 @@
 
 
 ## End points
-1. GET `/tasks/todo`
+1. GET `/tasks/todos`
 1. GET /`tasks/todos/{id}`
 1. PUSH `/tasks/todos`
 1. PUT `/tasks/todos/{id}`
