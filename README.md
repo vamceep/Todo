@@ -6,12 +6,13 @@
 1. Start application with `java -jar target/Todo-1.0-SNAPSHOT.jar server config.yml`
 1. To check that your application is running enter url `http://localhost:8080`
 
-Availabel REST Apis
-GET /tasks/todos
-GET /tasks/todos/{id}
-PUSH /tasks/todos
-PUT /tasks/todos/{id}
-DELETE /tasks/todos/{id}
+
+## End points
+1. GET `/tasks/todo`
+1. GET /`tasks/todos/{id}`
+1. PUSH `/tasks/todos`
+1. PUT `/tasks/todos/{id}`
+1. DELETE `/tasks/todos/{id}`
 
 ## Health Check
 
