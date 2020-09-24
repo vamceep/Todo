@@ -1,0 +1,9 @@
+database:
+  driverClass: com.mysql.cj.jdbc.Driver
+  user: root
+  password: ******
+  url: jdbc:mysql://localhost:3306/Todo?createDatabaseIfNotExist=true
+  properties:
+    hibernate.dialect: org.hibernate.dialect.MySQL57Dialect
+    hibernate.hbm2ddl.auto: update
+    hibernate.show_sql: true

@@ -1,0 +1,11 @@
+target/original-Todo-1.0-SNAPSHOT.jar
+target/Todo-1.0-SNAPSHOT-sources.jar
+target/Todo-1.0-SNAPSHOT.jar
+target/classes/banner.txt
+target/classes/com/todo/TodoApplication.class
+target/classes/com/todo/TodoApplication$1.class
+target/classes/com/todo/TodoConfiguration.class
+target/classes/com/todo/core/SubTask.class
+target/classes/com/todo/core/Task.class
+target/classes/com/todo/db/TaskDao.class
+target/classes/com/todo/resources/TaskResource.class

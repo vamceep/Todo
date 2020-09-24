@@ -1,0 +1,7 @@
+com/todo/resources/TaskResource.class
+com/todo/core/Task.class
+com/todo/db/TaskDao.class
+com/todo/core/SubTask.class
+com/todo/TodoConfiguration.class
+com/todo/TodoApplication.class
+com/todo/TodoApplication$1.class
